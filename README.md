@@ -1,6 +1,3 @@
-<div align="center">
-<h1>FatJun</h1>
-
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=flat-square&logoWidth=20)
 &nbsp;&nbsp;&nbsp;&nbsp;![Django Badge](https://img.shields.io/badge/Django-41B883?logo=django&logoColor=fff&style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;![FastAPI Badge](https://img.shields.io/badge/FastAPI-26A69A?logo=fastapi&logoColor=fff&style=flat-square)
@@ -23,5 +20,3 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;![Git Badge](https://img.shields.io/badge/Git-fff?logo=git&logoColor=DC382D&style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;![Github Badge](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=24292E&style=flat-square)
-
-</div>
